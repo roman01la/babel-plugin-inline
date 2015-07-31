@@ -2,6 +2,8 @@
 
 Array map/filter/reduce inlining plugin.
 
+**WIP See tests for what's working right now**
+
 ## Installation
 
 ```sh
