@@ -1,0 +1,3 @@
+Array.prototype.map x 3,395,581 ops/sec ±1.40% (89 runs sampled)
+for loop x 20,056,378 ops/sec ±0.73% (89 runs sampled)
+Fastest is for loop

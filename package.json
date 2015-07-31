@@ -13,6 +13,7 @@
   },
   "devDependencies": {
     "babel": "^5.8.20",
+    "benchmark": "^1.0.0",
     "chalk": "^1.1.0",
     "clear": "0.0.1",
     "diff": "^1.4.0",
@@ -21,7 +22,8 @@
   "scripts": {
     "release": "babel src --out-dir dist",
     "test": "node test",
-    "watch": "node test --watch"
+    "watch": "node test --watch",
+    "bench": "node benchmark/run > benchmark/benchmark.txt"
   },
   "keywords": [
     "babel-plugin",
