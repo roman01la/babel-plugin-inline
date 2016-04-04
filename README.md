@@ -1,4 +1,5 @@
 # babel-plugin-inline
+![](https://img.shields.io/badge/maintainer%20needed-!-red.svg)
 
 Array map/filter/reduce inlining plugin.
 
